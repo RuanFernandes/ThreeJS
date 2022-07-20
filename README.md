@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://threejs.org" rel="noopener">
+  <a href="https://threejs.org" rel="noopener" target="_blank">
  <img width=200px height=200px src="https://bachasoftware.com/wp-content/uploads/2020/07/icon_2-1.png" alt="Project logo"></a>
 </p>
 
