@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="threejs.org" rel="noopener">
+  <a href="https://threejs.org" rel="noopener">
  <img width=200px height=200px src="https://bachasoftware.com/wp-content/uploads/2020/07/icon_2-1.png" alt="Project logo"></a>
 </p>
 
@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL. The source code is hosted in a repository on <a href="https://github.com/mrdoob/three.js/" rel="noopener">GitHub</a>.
     <br> 
 </p>
 <br>
